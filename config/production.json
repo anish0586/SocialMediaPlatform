@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:advika0110@socialplatformanish-thwrv.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret",
+    "githubClientId": "62a24a9d60bec32c1e91",
+    "githubSecret": "ea5956e4220cf60fefa93ab5c36a661acb302b74"
+}
